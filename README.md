@@ -12,4 +12,4 @@ Just open the link, download the dataset then upload either to google drive or J
 
 # Download Web files
 Here is the link: https://drive.google.com/drive/folders/1svhnlwLUvhXwDaSWbV9XZNqSifeTWd76?usp=sharing
-Download the folder, Upload to google drive or jupyter. Change the releavnt paths in the python brain mri web notebook
+Download the folder, Upload to google drive or jupyter. Change the relevant paths in the python brain mri web notebook
